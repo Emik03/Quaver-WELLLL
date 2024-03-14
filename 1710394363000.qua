@@ -1,13 +1,14 @@
 AudioFile: audio.mp3
 SongPreviewTime: 33841
-BackgroundFile: ''
+BackgroundFile: well-bg.jpg
+BannerFile: well-banner.png
 MapId: -1
 MapSetId: -1
 Mode: Keys4
 Title: WELLLL
 Artist: Jacob Collier
 Source: Djesse Vol. 4
-Tags: ''
+Tags: sv, qot4
 Creator: Emik
 DifficultyName: SLAYYYY
 Description: Created at 1710394363000
