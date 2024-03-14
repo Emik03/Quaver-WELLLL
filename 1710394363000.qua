@@ -508,6 +508,288 @@ SliderVelocities:
 - StartTime: 5933.984375
   Multiplier: 3.9807388782501221
 - StartTime: 5934
+  Multiplier: 3200000000
+- StartTime: 5934.015625
+  Multiplier: 1
+- StartTime: 5976.984375
+  Multiplier: -3200000000
+- StartTime: 5977
+  Multiplier: 640000000
+- StartTime: 5977.015625
+  Multiplier: 1
+- StartTime: 6020.984375
+  Multiplier: -640000000
+- StartTime: 6021
+  Multiplier: 1280000000
+- StartTime: 6021.015625
+  Multiplier: 1
+- StartTime: 6064.984375
+  Multiplier: -1280000000
+- StartTime: 6065
+  Multiplier: 3200000000
+- StartTime: 6065.015625
+  Multiplier: 1
+- StartTime: 6107.984375
+  Multiplier: -3200000000
+- StartTime: 6108
+  Multiplier: 640000000
+- StartTime: 6108.015625
+  Multiplier: 1
+- StartTime: 6151.984375
+  Multiplier: -640000000
+- StartTime: 6152
+  Multiplier: 1280000000
+- StartTime: 6152.015625
+  Multiplier: 1
+- StartTime: 6195.984375
+  Multiplier: -1280000000
+- StartTime: 6196
+  Multiplier: 3200000000
+- StartTime: 6196.015625
+  Multiplier: 1
+- StartTime: 6238.984375
+  Multiplier: -3200000000
+- StartTime: 6239
+  Multiplier: 640000000
+- StartTime: 6239.015625
+  Multiplier: 1
+- StartTime: 6282.984375
+  Multiplier: -640000000
+- StartTime: 6283
+  Multiplier: 1280000000
+- StartTime: 6283.015625
+  Multiplier: 1
+- StartTime: 6325.984375
+  Multiplier: -1280000000
+- StartTime: 6326
+  Multiplier: 3200000000
+- StartTime: 6326.015625
+  Multiplier: 1
+- StartTime: 6369.984375
+  Multiplier: -3200000000
+- StartTime: 6370
+  Multiplier: 640000000
+- StartTime: 6370.015625
+  Multiplier: 1
+- StartTime: 6413.984375
+  Multiplier: -640000000
+- StartTime: 6414
+  Multiplier: 1280000000
+- StartTime: 6414.015625
+  Multiplier: 1
+- StartTime: 6456.984375
+  Multiplier: -1280000000
+- StartTime: 6457
+  Multiplier: 3200000000
+- StartTime: 6457.015625
+  Multiplier: 1
+- StartTime: 6500.984375
+  Multiplier: -3200000000
+- StartTime: 6501
+  Multiplier: 640000000
+- StartTime: 6501.015625
+  Multiplier: 1
+- StartTime: 6543.984375
+  Multiplier: -640000000
+- StartTime: 6544
+  Multiplier: 1280000000
+- StartTime: 6544.015625
+  Multiplier: 1
+- StartTime: 6587.984375
+  Multiplier: -1280000000
+- StartTime: 6588
+  Multiplier: 3200000000
+- StartTime: 6588.015625
+  Multiplier: 1
+- StartTime: 6631.984375
+  Multiplier: -3200000000
+- StartTime: 6632
+  Multiplier: 640000000
+- StartTime: 6632.015625
+  Multiplier: 1
+- StartTime: 6674.984375
+  Multiplier: -640000000
+- StartTime: 6675
+  Multiplier: 1280000000
+- StartTime: 6675.015625
+  Multiplier: 1
+- StartTime: 6718.984375
+  Multiplier: -1280000000
+- StartTime: 6719
+  Multiplier: 3200000000
+- StartTime: 6719.015625
+  Multiplier: 1
+- StartTime: 6761.984375
+  Multiplier: -3200000000
+- StartTime: 6762
+  Multiplier: 640000000
+- StartTime: 6762.015625
+  Multiplier: 1
+- StartTime: 6805.984375
+  Multiplier: -640000000
+- StartTime: 6806
+  Multiplier: 1280000000
+- StartTime: 6806.015625
+  Multiplier: 1
+- StartTime: 6849.984375
+  Multiplier: -1280000000
+- StartTime: 6850
+  Multiplier: 3200000000
+- StartTime: 6850.015625
+  Multiplier: 1
+- StartTime: 6892.984375
+  Multiplier: -3200000000
+- StartTime: 6893
+  Multiplier: 640000000
+- StartTime: 6893.015625
+  Multiplier: 1
+- StartTime: 6936.984375
+  Multiplier: -640000000
+- StartTime: 6937
+  Multiplier: 1280000000
+- StartTime: 6937.015625
+  Multiplier: 1
+- StartTime: 6979.984375
+  Multiplier: -1280000000
+- StartTime: 6980
+  Multiplier: 3200000000
+- StartTime: 6980.015625
+  Multiplier: 1
+- StartTime: 7023.984375
+  Multiplier: -3200000000
+- StartTime: 7024
+  Multiplier: 640000000
+- StartTime: 7024.015625
+  Multiplier: 1
+- StartTime: 7067.984375
+  Multiplier: -640000000
+- StartTime: 7068
+  Multiplier: 1280000000
+- StartTime: 7068.015625
+  Multiplier: 1
+- StartTime: 7110.984375
+  Multiplier: -1280000000
+- StartTime: 7111
+  Multiplier: 3200000000
+- StartTime: 7111.015625
+  Multiplier: 1
+- StartTime: 7154.984375
+  Multiplier: -3200000000
+- StartTime: 7155
+  Multiplier: 640000000
+- StartTime: 7155.015625
+  Multiplier: 1
+- StartTime: 7197.984375
+  Multiplier: -640000000
+- StartTime: 7198
+  Multiplier: 1280000000
+- StartTime: 7198.015625
+  Multiplier: 1
+- StartTime: 7241.984375
+  Multiplier: -1280000000
+- StartTime: 7242
+  Multiplier: 3200000000
+- StartTime: 7242.015625
+  Multiplier: 1
+- StartTime: 7285.984375
+  Multiplier: -3200000000
+- StartTime: 7286
+  Multiplier: 640000000
+- StartTime: 7286.015625
+  Multiplier: 1
+- StartTime: 7328.984375
+  Multiplier: -640000000
+- StartTime: 7329
+  Multiplier: 1280000000
+- StartTime: 7329.015625
+  Multiplier: 1
+- StartTime: 7372.984375
+  Multiplier: -1280000000
+- StartTime: 7373
+  Multiplier: 3200000000
+- StartTime: 7373.015625
+  Multiplier: 1
+- StartTime: 7415.984375
+  Multiplier: -3200000000
+- StartTime: 7416
+  Multiplier: 640000000
+- StartTime: 7416.015625
+  Multiplier: 1
+- StartTime: 7459.984375
+  Multiplier: -640000000
+- StartTime: 7460
+  Multiplier: 1280000000
+- StartTime: 7460.015625
+  Multiplier: 1
+- StartTime: 7503.984375
+  Multiplier: -1280000000
+- StartTime: 7504
+  Multiplier: 3200000000
+- StartTime: 7504.015625
+  Multiplier: 1
+- StartTime: 7546.984375
+  Multiplier: -3200000000
+- StartTime: 7547
+  Multiplier: 640000000
+- StartTime: 7547.015625
+  Multiplier: 1
+- StartTime: 7590.984375
+  Multiplier: -640000000
+- StartTime: 7591
+  Multiplier: 1280000000
+- StartTime: 7591.015625
+  Multiplier: 1
+- StartTime: 7633.984375
+  Multiplier: -1280000000
+- StartTime: 7634
+  Multiplier: 3200000000
+- StartTime: 7634.015625
+  Multiplier: 1
+- StartTime: 7677.984375
+  Multiplier: -3200000000
+- StartTime: 7678
+  Multiplier: 640000000
+- StartTime: 7678.015625
+  Multiplier: 1
+- StartTime: 7721.984375
+  Multiplier: -640000000
+- StartTime: 7722
+  Multiplier: 1280000000
+- StartTime: 7722.015625
+  Multiplier: 1
+- StartTime: 7764.984375
+  Multiplier: -1280000000
+- StartTime: 7765
+  Multiplier: 3200000000
+- StartTime: 7765.015625
+  Multiplier: 1
+- StartTime: 7808.984375
+  Multiplier: -3200000000
+- StartTime: 7809
+  Multiplier: 640000000
+- StartTime: 7809.015625
+  Multiplier: 1
+- StartTime: 7851.984375
+  Multiplier: -640000000
+- StartTime: 7852
+  Multiplier: 1280000000
+- StartTime: 7852.015625
+  Multiplier: 1
+- StartTime: 7895.984375
+  Multiplier: -1280000000
+- StartTime: 7896
+  Multiplier: 3200000000
+- StartTime: 7896.015625
+  Multiplier: 1
+- StartTime: 7939.984375
+  Multiplier: -3200000000
+- StartTime: 7940
+  Multiplier: 640000000
+- StartTime: 7940.015625
+  Multiplier: 1
+- StartTime: 7982.984375
+  Multiplier: -640000000
+- StartTime: 7983
   Multiplier: 1
 - StartTime: 8027
   Multiplier: 1394
@@ -790,183 +1072,343 @@ SliderVelocities:
 - StartTime: 11514.984375
   Multiplier: 3.9807388782501221
 - StartTime: 11515
-  Multiplier: 1
-- StartTime: 11546.142578125
-  Multiplier: 0.99553573131561279
-- StartTime: 11577.2861328125
-  Multiplier: 0.99107140302658081
-- StartTime: 11608.4287109375
-  Multiplier: 0.9866071343421936
-- StartTime: 11639.5712890625
-  Multiplier: 0.9821428656578064
-- StartTime: 11670.7138671875
-  Multiplier: 0.97767859697341919
-- StartTime: 11701.857421875
-  Multiplier: 0.97321426868438721
+  Multiplier: 3200000000
+- StartTime: 11515.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11558.984375
+  Multiplier: -3200000000
+- StartTime: 11559
+  Multiplier: 2560000000
+- StartTime: 11559.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11601.984375
+  Multiplier: -2560000000
+- StartTime: 11602
+  Multiplier: 1280000000
+- StartTime: 11602.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11645.984375
+  Multiplier: -1280000000
+- StartTime: 11646
+  Multiplier: 3200000000
+- StartTime: 11646.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11689.984375
+  Multiplier: -3200000000
+- StartTime: 11690
+  Multiplier: 2560000000
+- StartTime: 11690.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11732.984375
+  Multiplier: -2560000000
 - StartTime: 11733
-  Multiplier: 0.96875
-- StartTime: 11764.142578125
-  Multiplier: 0.96428573131561279
-- StartTime: 11795.2861328125
-  Multiplier: 0.95982140302658081
-- StartTime: 11826.4287109375
-  Multiplier: 0.9553571343421936
-- StartTime: 11857.5712890625
-  Multiplier: 0.9508928656578064
-- StartTime: 11888.7138671875
-  Multiplier: 0.94642859697341919
-- StartTime: 11919.857421875
-  Multiplier: 0.94196426868438721
+  Multiplier: 1280000000
+- StartTime: 11733.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11776.984375
+  Multiplier: -1280000000
+- StartTime: 11777
+  Multiplier: 3200000000
+- StartTime: 11777.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11820.984375
+  Multiplier: -3200000000
+- StartTime: 11821
+  Multiplier: 2560000000
+- StartTime: 11821.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11863.984375
+  Multiplier: -2560000000
+- StartTime: 11864
+  Multiplier: 1280000000
+- StartTime: 11864.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11907.984375
+  Multiplier: -1280000000
+- StartTime: 11908
+  Multiplier: 3200000000
+- StartTime: 11908.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11950.984375
+  Multiplier: -3200000000
 - StartTime: 11951
-  Multiplier: 0.9375
-- StartTime: 11982.142578125
-  Multiplier: 0.93303573131561279
-- StartTime: 12013.2861328125
-  Multiplier: 0.92857140302658081
-- StartTime: 12044.4287109375
-  Multiplier: 0.9241071343421936
-- StartTime: 12075.5712890625
-  Multiplier: 0.9196428656578064
-- StartTime: 12106.7138671875
-  Multiplier: 0.91517859697341919
-- StartTime: 12137.857421875
-  Multiplier: 0.91071426868438721
+  Multiplier: 2560000000
+- StartTime: 11951.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 11994.984375
+  Multiplier: -2560000000
+- StartTime: 11995
+  Multiplier: 1280000000
+- StartTime: 11995.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12038.984375
+  Multiplier: -1280000000
+- StartTime: 12039
+  Multiplier: 3200000000
+- StartTime: 12039.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12081.984375
+  Multiplier: -3200000000
+- StartTime: 12082
+  Multiplier: 2560000000
+- StartTime: 12082.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12125.984375
+  Multiplier: -2560000000
+- StartTime: 12126
+  Multiplier: 1280000000
+- StartTime: 12126.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12168.984375
+  Multiplier: -1280000000
 - StartTime: 12169
-  Multiplier: 0.90625
-- StartTime: 12200.142578125
-  Multiplier: 0.90178573131561279
-- StartTime: 12231.2861328125
-  Multiplier: 0.89732140302658081
-- StartTime: 12262.4287109375
-  Multiplier: 0.8928571343421936
-- StartTime: 12293.5712890625
-  Multiplier: 0.8883928656578064
-- StartTime: 12324.7138671875
-  Multiplier: 0.88392859697341919
-- StartTime: 12355.857421875
-  Multiplier: 0.87946426868438721
+  Multiplier: 3200000000
+- StartTime: 12169.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12212.984375
+  Multiplier: -3200000000
+- StartTime: 12213
+  Multiplier: 2560000000
+- StartTime: 12213.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12256.984375
+  Multiplier: -2560000000
+- StartTime: 12257
+  Multiplier: 1280000000
+- StartTime: 12257.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12299.984375
+  Multiplier: -1280000000
+- StartTime: 12300
+  Multiplier: 3200000000
+- StartTime: 12300.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12343.984375
+  Multiplier: -3200000000
+- StartTime: 12344
+  Multiplier: 2560000000
+- StartTime: 12344.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12386.984375
+  Multiplier: -2560000000
 - StartTime: 12387
-  Multiplier: 0.875
-- StartTime: 12418.142578125
-  Multiplier: 0.87053573131561279
-- StartTime: 12449.2861328125
-  Multiplier: 0.86607140302658081
-- StartTime: 12480.4287109375
-  Multiplier: 0.8616071343421936
-- StartTime: 12511.5712890625
-  Multiplier: 0.8571428656578064
-- StartTime: 12542.7138671875
-  Multiplier: 0.85267859697341919
-- StartTime: 12573.857421875
-  Multiplier: 0.84821426868438721
+  Multiplier: 1280000000
+- StartTime: 12387.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12430.984375
+  Multiplier: -1280000000
+- StartTime: 12431
+  Multiplier: 3200000000
+- StartTime: 12431.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12474.984375
+  Multiplier: -3200000000
+- StartTime: 12475
+  Multiplier: 2560000000
+- StartTime: 12475.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12517.984375
+  Multiplier: -2560000000
+- StartTime: 12518
+  Multiplier: 1280000000
+- StartTime: 12518.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12561.984375
+  Multiplier: -1280000000
+- StartTime: 12562
+  Multiplier: 3200000000
+- StartTime: 12562.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12604.984375
+  Multiplier: -3200000000
 - StartTime: 12605
-  Multiplier: 0.84375
-- StartTime: 12636.142578125
-  Multiplier: 0.83928573131561279
-- StartTime: 12667.2861328125
-  Multiplier: 0.83482140302658081
-- StartTime: 12698.4287109375
-  Multiplier: 0.8303571343421936
-- StartTime: 12729.5712890625
-  Multiplier: 0.8258928656578064
-- StartTime: 12760.7138671875
-  Multiplier: 0.82142859697341919
-- StartTime: 12791.857421875
-  Multiplier: 0.81696426868438721
+  Multiplier: 2560000000
+- StartTime: 12605.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12648.984375
+  Multiplier: -2560000000
+- StartTime: 12649
+  Multiplier: 1280000000
+- StartTime: 12649.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12692.984375
+  Multiplier: -1280000000
+- StartTime: 12693
+  Multiplier: 3200000000
+- StartTime: 12693.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12735.984375
+  Multiplier: -3200000000
+- StartTime: 12736
+  Multiplier: 2560000000
+- StartTime: 12736.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12779.984375
+  Multiplier: -2560000000
+- StartTime: 12780
+  Multiplier: 1280000000
+- StartTime: 12780.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12822.984375
+  Multiplier: -1280000000
 - StartTime: 12823
-  Multiplier: 0.8125
-- StartTime: 12854.142578125
-  Multiplier: 0.80803573131561279
-- StartTime: 12885.2861328125
-  Multiplier: 0.80357140302658081
-- StartTime: 12916.4287109375
-  Multiplier: 0.7991071343421936
-- StartTime: 12947.5712890625
-  Multiplier: 0.7946428656578064
-- StartTime: 12978.7138671875
-  Multiplier: 0.79017859697341919
-- StartTime: 13009.857421875
-  Multiplier: 0.78571426868438721
+  Multiplier: 3200000000
+- StartTime: 12823.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12866.984375
+  Multiplier: -3200000000
+- StartTime: 12867
+  Multiplier: 2560000000
+- StartTime: 12867.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12910.984375
+  Multiplier: -2560000000
+- StartTime: 12911
+  Multiplier: 1280000000
+- StartTime: 12911.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12953.984375
+  Multiplier: -1280000000
+- StartTime: 12954
+  Multiplier: 3200000000
+- StartTime: 12954.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 12997.984375
+  Multiplier: -3200000000
+- StartTime: 12998
+  Multiplier: 2560000000
+- StartTime: 12998.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13040.984375
+  Multiplier: -2560000000
 - StartTime: 13041
-  Multiplier: 0.78125
-- StartTime: 13072.142578125
-  Multiplier: 0.77678573131561279
-- StartTime: 13103.2861328125
-  Multiplier: 0.77232140302658081
-- StartTime: 13134.4287109375
-  Multiplier: 0.7678571343421936
-- StartTime: 13165.5712890625
-  Multiplier: 0.7633928656578064
-- StartTime: 13196.7138671875
-  Multiplier: 0.75892859697341919
-- StartTime: 13227.857421875
-  Multiplier: 0.75446426868438721
+  Multiplier: 1280000000
+- StartTime: 13041.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13084.984375
+  Multiplier: -1280000000
+- StartTime: 13085
+  Multiplier: 3200000000
+- StartTime: 13085.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13128.984375
+  Multiplier: -3200000000
+- StartTime: 13129
+  Multiplier: 2560000000
+- StartTime: 13129.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13171.984375
+  Multiplier: -2560000000
+- StartTime: 13172
+  Multiplier: 1280000000
+- StartTime: 13172.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13215.984375
+  Multiplier: -1280000000
+- StartTime: 13216
+  Multiplier: 3200000000
+- StartTime: 13216.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13258.984375
+  Multiplier: -3200000000
 - StartTime: 13259
-  Multiplier: 2.0947272777557373
-- StartTime: 13280.8125
-  Multiplier: 1.8622329235076904
-- StartTime: 13302.625
-  Multiplier: 1.6555432081222534
-- StartTime: 13324.4375
-  Multiplier: 1.4717941284179688
-- StartTime: 13346.25
-  Multiplier: 1.3084393739700317
-- StartTime: 13368.0625
-  Multiplier: 1.1632153987884521
-- StartTime: 13389.875
-  Multiplier: 1.0341098308563232
-- StartTime: 13411.6875
-  Multiplier: 0.91933375597000122
-- StartTime: 13433.5
-  Multiplier: 0.81729668378829956
-- StartTime: 13455.3125
-  Multiplier: 0.72658473253250122
-- StartTime: 13477.125
-  Multiplier: 0.64594089984893799
-- StartTime: 13498.9375
-  Multiplier: 0.57424777746200562
-- StartTime: 13520.75
-  Multiplier: 0.51051187515258789
-- StartTime: 13542.5625
-  Multiplier: 0.45385003089904785
-- StartTime: 13564.375
-  Multiplier: 0.40347713232040405
-- StartTime: 13586.1875
-  Multiplier: 0.35869508981704712
+  Multiplier: 2560000000
+- StartTime: 13259.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13302.984375
+  Multiplier: -2560000000
+- StartTime: 13303
+  Multiplier: 1280000000
+- StartTime: 13303.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13346.984375
+  Multiplier: -1280000000
+- StartTime: 13347
+  Multiplier: 3200000000
+- StartTime: 13347.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13389.984375
+  Multiplier: -3200000000
+- StartTime: 13390
+  Multiplier: 2560000000
+- StartTime: 13390.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13433.984375
+  Multiplier: -2560000000
+- StartTime: 13434
+  Multiplier: 1280000000
+- StartTime: 13434.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13476.984375
+  Multiplier: -1280000000
+- StartTime: 13477
+  Multiplier: 3200000000
+- StartTime: 13477.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13520.984375
+  Multiplier: -3200000000
+- StartTime: 13521
+  Multiplier: 2560000000
+- StartTime: 13521.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13564.984375
+  Multiplier: -2560000000
+- StartTime: 13565
+  Multiplier: 1280000000
+- StartTime: 13565.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13607.984375
+  Multiplier: -1280000000
 - StartTime: 13608
-  Multiplier: 0.35869508981704712
-- StartTime: 13629.8125
-  Multiplier: 0.40347713232040405
-- StartTime: 13651.625
-  Multiplier: 0.45385003089904785
-- StartTime: 13673.4375
-  Multiplier: 0.51051187515258789
-- StartTime: 13695.25
-  Multiplier: 0.57424777746200562
-- StartTime: 13717.0625
-  Multiplier: 0.64594089984893799
-- StartTime: 13738.875
-  Multiplier: 0.72658473253250122
-- StartTime: 13760.6875
-  Multiplier: 0.81729668378829956
-- StartTime: 13782.5
-  Multiplier: 0.91933375597000122
-- StartTime: 13804.3125
-  Multiplier: 1.0341098308563232
-- StartTime: 13826.125
-  Multiplier: 1.1632153987884521
-- StartTime: 13847.9375
-  Multiplier: 1.3084393739700317
-- StartTime: 13869.75
-  Multiplier: 1.4717941284179688
-- StartTime: 13891.5625
-  Multiplier: 1.6555432081222534
-- StartTime: 13913.375
-  Multiplier: 1.8622329235076904
-- StartTime: 13935.1875
-  Multiplier: 2.0947272777557373
+  Multiplier: 3200000000
+- StartTime: 13608.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13651.984375
+  Multiplier: -3200000000
+- StartTime: 13652
+  Multiplier: 2560000000
+- StartTime: 13652.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13695.984375
+  Multiplier: -2560000000
+- StartTime: 13696
+  Multiplier: 1280000000
+- StartTime: 13696.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13738.984375
+  Multiplier: -1280000000
+- StartTime: 13739
+  Multiplier: 3200000000
+- StartTime: 13739.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13782.984375
+  Multiplier: -3200000000
+- StartTime: 13783
+  Multiplier: 2560000000
+- StartTime: 13783.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13825.984375
+  Multiplier: -2560000000
+- StartTime: 13826
+  Multiplier: 1280000000
+- StartTime: 13826.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13869.984375
+  Multiplier: -1280000000
+- StartTime: 13870
+  Multiplier: 3200000000
+- StartTime: 13870.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13913.984375
+  Multiplier: -3200000000
+- StartTime: 13914
+  Multiplier: 2560000000
+- StartTime: 13914.015625
+  Multiplier: 3.9807388782501221
+- StartTime: 13956.984375
+  Multiplier: -2560000000
 - StartTime: 13957
-  Multiplier: -0.5236818790435791
+  Multiplier: 5200
 - StartTime: 13957.015625
   Multiplier: 1.5710453987121582
 - StartTime: 13978.8125
@@ -8732,31 +9174,31 @@ SliderVelocities:
 - StartTime: 153100
   Multiplier: 1
 - StartTime: 153448
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 153448.015625
   Multiplier: 1
 - StartTime: 153797
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 153797.015625
   Multiplier: 1
 - StartTime: 154146
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 154146.015625
   Multiplier: 1
 - StartTime: 154495
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 154495.015625
   Multiplier: 1
 - StartTime: 154844
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 154844.015625
   Multiplier: 1
 - StartTime: 155193
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 155193.015625
   Multiplier: 1
 - StartTime: 155541
-  Multiplier: 686529
+  Multiplier: 686529024
 - StartTime: 155541.015625
   Multiplier: 1
 HitObjects:
@@ -8926,66 +9368,13 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 12213
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 12213
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 12387
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 12562
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 12562
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 12736
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 12736
-  Lane: 3
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 12911
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 13085
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 13085
-  Lane: 3
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 5
-- StartTime: 13259
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 13259
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 5
 - StartTime: 13957
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 13957
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 2
 - StartTime: 13957
@@ -9675,32 +10064,117 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 35934
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 35934
+- StartTime: 35977
+  Lane: 2
+  KeySounds: []
+- StartTime: 36021
+  Lane: 3
+  KeySounds: []
+- StartTime: 36065
   Lane: 1
   KeySounds: []
-  EditorLayer: 3
+- StartTime: 36108
+  Lane: 2
+  KeySounds: []
+- StartTime: 36152
+  Lane: 3
+  KeySounds: []
+- StartTime: 36195
+  Lane: 1
+  KeySounds: []
+- StartTime: 36239
+  Lane: 2
+  KeySounds: []
+- StartTime: 36283
+  Lane: 3
+  KeySounds: []
+- StartTime: 36326
+  Lane: 1
+  KeySounds: []
+- StartTime: 36370
+  Lane: 2
+  KeySounds: []
+- StartTime: 36413
+  Lane: 3
+  KeySounds: []
+- StartTime: 36457
+  Lane: 1
+  KeySounds: []
+- StartTime: 36501
+  Lane: 2
+  KeySounds: []
+- StartTime: 36544
+  Lane: 3
+  KeySounds: []
+- StartTime: 36588
+  Lane: 1
+  KeySounds: []
+- StartTime: 36632
+  Lane: 2
+  KeySounds: []
+- StartTime: 36675
+  Lane: 3
+  KeySounds: []
+- StartTime: 36719
+  Lane: 1
+  KeySounds: []
+- StartTime: 36762
+  Lane: 2
+  KeySounds: []
+- StartTime: 36806
+  Lane: 3
+  KeySounds: []
+- StartTime: 36850
+  Lane: 1
+  KeySounds: []
+- StartTime: 36893
+  Lane: 2
+  KeySounds: []
+- StartTime: 36937
+  Lane: 3
+  KeySounds: []
+- StartTime: 36980
+  Lane: 1
+  KeySounds: []
+- StartTime: 37024
+  Lane: 2
+  KeySounds: []
+- StartTime: 37068
+  Lane: 3
+  KeySounds: []
+- StartTime: 37111
+  Lane: 1
+  KeySounds: []
+- StartTime: 37155
+  Lane: 2
+  KeySounds: []
+- StartTime: 37198
+  Lane: 3
+  KeySounds: []
+- StartTime: 37242
+  Lane: 1
+  KeySounds: []
+- StartTime: 37286
+  Lane: 2
+  KeySounds: []
 - StartTime: 37329
-  Lane: 4
+  Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 37329
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 2
 - StartTime: 37329
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 37329
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 38725
   Lane: 4
   HitSound: Whistle
@@ -9715,10 +10189,6 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 38725
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 40120
   Lane: 1
   KeySounds: []
@@ -9761,10 +10231,6 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 41515
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 42911
   Lane: 4
   HitSound: Whistle
@@ -9775,45 +10241,37 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 42911
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 42911
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 44306
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 44306
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 2
 - StartTime: 44306
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 44306
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 44655
   Lane: 4
   KeySounds: []
   EditorLayer: 2
 - StartTime: 44655
   Lane: 2
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 44655
-  Lane: 3
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
+- StartTime: 44655
+  Lane: 1
+  KeySounds: []
+  EditorLayer: 3
 - StartTime: 45701
   Lane: 1
   KeySounds: []
@@ -9831,56 +10289,56 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 46399
-  Lane: 1
+  Lane: 2
   KeySounds: []
   EditorLayer: 2
 - StartTime: 46573
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 46748
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 2
-- StartTime: 46748
   Lane: 3
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 46748
+  Lane: 1
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 46748
+  Lane: 2
   HitSound: Clap
   KeySounds: []
   EditorLayer: 6
 - StartTime: 46922
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 2
 - StartTime: 46922
-  Lane: 1
-  HitSound: Clap
-  KeySounds: []
-  EditorLayer: 6
-- StartTime: 47097
   Lane: 4
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 6
+- StartTime: 47097
+  Lane: 1
   KeySounds: []
   EditorLayer: 2
 - StartTime: 47097
-  Lane: 3
+  Lane: 2
   HitSound: Clap
   KeySounds: []
   EditorLayer: 6
 - StartTime: 47271
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 2
 - StartTime: 47271
-  Lane: 1
+  Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 6
 - StartTime: 47445
-  Lane: 4
+  Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 47445
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 2
 - StartTime: 47445
@@ -10565,10 +11023,6 @@ HitObjects:
   EditorLayer: 2
 - StartTime: 69422
   Lane: 1
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 69422
-  Lane: 2
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
@@ -10586,10 +11040,6 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 70818
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 72213
   Lane: 4
   HitSound: Whistle
@@ -10600,14 +11050,10 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 72213
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 72213
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 73608
   Lane: 1
   KeySounds: []
@@ -10646,15 +11092,11 @@ HitObjects:
   KeySounds: []
   EditorLayer: 1
 - StartTime: 75004
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 2
 - StartTime: 75004
   Lane: 1
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 75004
-  Lane: 2
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
@@ -10672,10 +11114,6 @@ HitObjects:
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 76399
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 77794
   Lane: 4
   HitSound: Whistle
@@ -10686,24 +11124,16 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
 - StartTime: 77794
-  Lane: 2
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
-- StartTime: 77794
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 3
 - StartTime: 78143
   Lane: 3
   KeySounds: []
   EditorLayer: 2
 - StartTime: 78143
   Lane: 1
-  KeySounds: []
-  EditorLayer: 3
-- StartTime: 78143
-  Lane: 2
   HitSound: Finish
   KeySounds: []
   EditorLayer: 4
@@ -12658,28 +13088,28 @@ HitObjects:
   EditorLayer: 1
 - StartTime: 154844
   Lane: 1
-  EndTime: 155193
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 1
-- StartTime: 155193
-  Lane: 4
+  EndTime: 155541
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 155193
   Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 155193
+  Lane: 4
   EndTime: 155541
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 155541
-  Lane: 2
+  Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
 - StartTime: 155541
-  Lane: 1
+  Lane: 2
   EndTime: 155890
   HitSound: Whistle
   KeySounds: []
