@@ -9591,6 +9591,10 @@ SliderVelocities:
   Multiplier: 0.40000000596046448
 - StartTime: 113670.6328125
   Multiplier: 0.30000001192092896
+- StartTime: 113670.6328125
+  Multiplier: 0.5
+- StartTime: 114402.3359375
+  Multiplier: 0.30000001192092896
 - StartTime: 114739.4140625
   Multiplier: 0.20000000298023224
 - StartTime: 115413.5625
@@ -9625,8 +9629,7 @@ SliderVelocities:
   Multiplier: 0.10000000149011612
 - StartTime: 131132.109375
   Multiplier: 0.20000000298023224
-- StartTime: 136019.765625
-  Multiplier: 0.10000000149011612
+- StartTime: 136384.96875
 - StartTime: 136704
   Multiplier: -0.92447704076766968
 - StartTime: 136704.015625
