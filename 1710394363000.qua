@@ -32,15 +32,37 @@ SoundEffects: []
 TimingPoints:
 - StartTime: 2446
   Bpm: 86
+- StartTime: 5236
+  Bpm: 86
+- StartTime: 8027
+  Bpm: 86
+- StartTime: 10818
+  Bpm: 86
+- StartTime: 13608
+  Bpm: 86
 - StartTime: 13957.6142578125
   Bpm: 86
 - StartTime: 35934.34765625
   Bpm: 86
 - StartTime: 47445.9609375
   Bpm: 86
-- StartTime: 69422.6953125
+- StartTime: 69422
   Bpm: 86
-- StartTime: 80934.3046875
+- StartTime: 72213
+  Bpm: 86
+- StartTime: 75004
+  Bpm: 86
+- StartTime: 77794
+  Bpm: 86
+- StartTime: 80585
+  Bpm: 86
+- StartTime: 80934
+  Bpm: 86
+- StartTime: 83725
+  Bpm: 86
+- StartTime: 86515
+  Bpm: 86
+- StartTime: 89306
   Bpm: 86
 - StartTime: 92097.09375
   Bpm: 86
@@ -120,9 +142,9 @@ TimingPoints:
   Hidden: true
 - StartTime: 127251.125
   Bpm: 88
-  Hidden: true
 - StartTime: 127592.7421875
   Bpm: 83
+  Hidden: true
 - StartTime: 127954
   Bpm: 83
   Hidden: true
@@ -134,9 +156,9 @@ TimingPoints:
   Hidden: true
 - StartTime: 128677
   Bpm: 83
-  Hidden: true
 - StartTime: 129038.5234375
   Bpm: 87
+  Hidden: true
 - StartTime: 130417.8203125
   Bpm: 84
 - StartTime: 131131.875
@@ -188,7 +210,19 @@ TimingPoints:
 - StartTime: 136704
   Bpm: 86
   Hidden: true
-- StartTime: 136704.65625
+- StartTime: 136704
+  Bpm: 86
+- StartTime: 139495
+  Bpm: 86
+- StartTime: 142286
+  Bpm: 86
+- StartTime: 145076
+  Bpm: 86
+- StartTime: 147867
+  Bpm: 86
+- StartTime: 150658
+  Bpm: 86
+- StartTime: 153448
   Bpm: 86
 SliderVelocities:
 - {}
