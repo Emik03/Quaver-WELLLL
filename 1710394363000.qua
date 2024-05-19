@@ -11593,21 +11593,21 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
-- StartTime: 13957
-  Lane: 3
+- StartTime: 13956
+  Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
+- StartTime: 13956
+  Lane: 3
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 13957
   Lane: 1
   KeySounds: []
   EditorLayer: 3
-- StartTime: 13957
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 2
 - StartTime: 14306
-  Lane: 4
+  Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 1
