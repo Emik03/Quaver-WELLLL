@@ -13463,6 +13463,10 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 2
+- StartTime: 81108
+  Lane: 3
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 81283
   Lane: 4
   KeySounds: []
