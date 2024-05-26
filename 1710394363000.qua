@@ -11289,31 +11289,31 @@ SliderVelocities:
 - StartTime: 153099.984375
   Multiplier: 16.454767227172852
 - StartTime: 153100
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 153448
   Multiplier: 171632256
 - StartTime: 153448.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 153797
   Multiplier: 171632256
 - StartTime: 153797.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 154146
   Multiplier: 171632256
 - StartTime: 154146.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 154495
   Multiplier: 171632256
 - StartTime: 154495.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 154844
   Multiplier: 171632256
 - StartTime: 154844.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 155193
   Multiplier: 171632256
 - StartTime: 155193.015625
-  Multiplier: 2
+  Multiplier: 1
 - StartTime: 155541
   Multiplier: 686529024
 - StartTime: 155541.015625
